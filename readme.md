@@ -1,22 +1,17 @@
-## Hero Video Startup Framework
+## SUF HEADER 2
 
-Modern websites use fullscreen videos to offer their visitors an interactive and entertaining experience.
+The Header module can be easily added to your existing HubSpot website and allows you create a centered header with text and custom colors
 
-The Hero Video header module can be easily added to your existing HubSpot website and allows you to embed videos from Wistia, YouTube and Vimeo.
-
-You can add a fullscreen background video and a video that is shown if the user clicks on the play button. The module is working well on mobile devices and is fully responsive.
-
-Choose any video from YouTube, Wistia and Vimeo and use the power of video on your website. You can tell stories, explain your product or just show a beautiful landscape.
 
 ---
 
-The Hero Video header module demo can be visited here:
+The HEADER 2 module demo can be visited here:
 
-https://w.inboundlabs.co/hero-video-header-module-demo
+https://w.inboundlabs.co/page-1-test
 
 ---
 
-The Hero Video header module is part of the Startup Framework template which can be found here:
+The HEADER 2 module is FREE and is  part of the Startup Framework FREE and PAID packages:
 
 https://marketplace.hubspot.com/products/inboundlabs/startup-framework-marketplace
 
