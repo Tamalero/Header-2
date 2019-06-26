@@ -7,7 +7,7 @@ The Header module can be easily added to your existing HubSpot website and allow
 
 The HEADER 2 module demo can be visited here:
 
-https://w.inboundlabs.co/page-1-test
+https://w.inboundlabs.co/header234demo
 
 ---
 
